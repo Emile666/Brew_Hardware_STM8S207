@@ -312,7 +312,7 @@
 		(property ki_fp_filters "*PTC* *Thermistor* PIN?ARRAY* bornier* *Terminal?Block* R_*")
 		(path "/9d766ec7-967d-40cb-8ee4-3cf55c3b35af/9de27e5e-d7ef-4742-b37b-91bd941f3c4c")
 		(sheetname "/Digital IO and Connectors/")
-		(sheetfile "brew_stm8s207_v421_stm8s207_3.kicad_sch")
+		(sheetfile "brew_HW_stm8s207_3.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -3.12 -3.62)
@@ -516,7 +516,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/9d766ec7-967d-40cb-8ee4-3cf55c3b35af/fc1fe600-fdea-4772-ae9d-36fb7efc4dea")
 		(sheetname "/Digital IO and Connectors/")
-		(sheetfile "brew_stm8s207_v421_stm8s207_3.kicad_sch")
+		(sheetfile "brew_HW_stm8s207_3.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -1.33 1.27)
@@ -769,7 +769,7 @@
 		(property ki_fp_filters "*PTC* *Thermistor* PIN?ARRAY* bornier* *Terminal?Block* R_*")
 		(path "/9d766ec7-967d-40cb-8ee4-3cf55c3b35af/cfa6adac-590c-4cc8-a28e-1133c7f7aed1")
 		(sheetname "/Digital IO and Connectors/")
-		(sheetfile "brew_stm8s207_v421_stm8s207_3.kicad_sch")
+		(sheetfile "brew_HW_stm8s207_3.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -3.12 -3.62)
@@ -972,7 +972,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/4b3e4e39-caaa-4705-bdb7-10020572d799/7d6f03a9-0f20-468b-94cc-ef366ad59315")
 		(sheetname "/Power Supply +24V, +7 Vdc, +5Vdc, +3V3/")
-		(sheetfile "brew_stm8s207_v421_stm8s207_2.kicad_sch")
+		(sheetfile "brew_HW_stm8s207_2.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.711252 0.91)
@@ -1173,7 +1173,7 @@
 		(property ki_fp_filters "6P6C* RJ12* RJ18* RJ25*")
 		(path "/9d766ec7-967d-40cb-8ee4-3cf55c3b35af/f37a7a26-e85f-443c-9bcf-4460cafd3dc3")
 		(sheetname "/Digital IO and Connectors/")
-		(sheetfile "brew_stm8s207_v421_stm8s207_3.kicad_sch")
+		(sheetfile "brew_HW_stm8s207_3.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 9.89 10.45)
@@ -1579,7 +1579,7 @@
 		(property ki_fp_filters "*PTC* *Thermistor* PIN?ARRAY* bornier* *Terminal?Block* R_*")
 		(path "/9d766ec7-967d-40cb-8ee4-3cf55c3b35af/17420f0b-e5a3-4021-b736-5e2c96353acc")
 		(sheetname "/Digital IO and Connectors/")
-		(sheetfile "brew_stm8s207_v421_stm8s207_3.kicad_sch")
+		(sheetfile "brew_HW_stm8s207_3.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -3.12 -3.62)
@@ -1779,7 +1779,7 @@
 		)
 		(path "/99fc4b3c-8fe7-4234-a079-3ca6d7338ba8/0937ba29-5b08-4943-ae03-23ba4d6a943d")
 		(sheetname "/STM8S207 Microcontroller/")
-		(sheetfile "brew_stm8s207_v421_stm8s207_1.kicad_sch")
+		(sheetfile "brew_HW_stm8s207_1.kicad_sch")
 		(fp_line
 			(start 27.94 -16.51)
 			(end 8.89 -16.51)
@@ -2317,7 +2317,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/99fc4b3c-8fe7-4234-a079-3ca6d7338ba8/1f44edc1-7520-4a63-91be-677355127edf")
 		(sheetname "/STM8S207 Microcontroller/")
-		(sheetfile "brew_stm8s207_v421_stm8s207_1.kicad_sch")
+		(sheetfile "brew_HW_stm8s207_1.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 1.33 -1.33)
@@ -2592,7 +2592,7 @@
 		(property ki_fp_filters "CP_*")
 		(path "/9d766ec7-967d-40cb-8ee4-3cf55c3b35af/462cbb9a-4519-4654-aff1-3d442646892a")
 		(sheetname "/Digital IO and Connectors/")
-		(sheetfile "brew_stm8s207_v421_stm8s207_3.kicad_sch")
+		(sheetfile "brew_HW_stm8s207_3.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 1 1.04)
@@ -3937,7 +3937,7 @@
 		(property ki_fp_filters "*PTC* *Thermistor* PIN?ARRAY* bornier* *Terminal?Block* R_*")
 		(path "/9d766ec7-967d-40cb-8ee4-3cf55c3b35af/810ff16d-a681-45de-b657-9470a414e72e")
 		(sheetname "/Digital IO and Connectors/")
-		(sheetfile "brew_stm8s207_v421_stm8s207_3.kicad_sch")
+		(sheetfile "brew_HW_stm8s207_3.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -3.12 -3.62)
@@ -4142,7 +4142,7 @@
 		(property ki_fp_filters "6P6C* RJ12* RJ18* RJ25*")
 		(path "/9d766ec7-967d-40cb-8ee4-3cf55c3b35af/eb82b70f-91d6-4d3b-8d39-03d82acd8d5e")
 		(sheetname "/Digital IO and Connectors/")
-		(sheetfile "brew_stm8s207_v421_stm8s207_3.kicad_sch")
+		(sheetfile "brew_HW_stm8s207_3.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 9.89 10.45)
@@ -4564,7 +4564,7 @@
 		(property ki_fp_filters "Pin* Test*")
 		(path "/4b3e4e39-caaa-4705-bdb7-10020572d799/bd430ebd-1676-4dc8-8e95-5289b1b077f1")
 		(sheetname "/Power Supply +24V, +7 Vdc, +5Vdc, +3V3/")
-		(sheetfile "brew_stm8s207_v421_stm8s207_2.kicad_sch")
+		(sheetfile "brew_HW_stm8s207_2.kicad_sch")
 		(attr through_hole)
 		(fp_circle
 			(center 0 0)
@@ -4729,7 +4729,7 @@
 		(property ki_fp_filters "DIP*W7.62mm* SOP*7.0x12.5mm*P1.27mm* SSOP*4.4x6.5mm*P0.65mm* SOIC*7.5x11.6mm*P1.27mm*")
 		(path "/9d766ec7-967d-40cb-8ee4-3cf55c3b35af/fba9e121-cde3-42ce-a57e-e61594df9995")
 		(sheetname "/Digital IO and Connectors/")
-		(sheetfile "brew_stm8s207_v421_stm8s207_3.kicad_sch")
+		(sheetfile "brew_HW_stm8s207_3.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -3.86 -5.885)
@@ -5194,7 +5194,7 @@
 		(property ki_fp_filters "TO?220*")
 		(path "/4b3e4e39-caaa-4705-bdb7-10020572d799/72f6dbd7-bfb6-4e85-994b-158da2515f48")
 		(sheetname "/Power Supply +24V, +7 Vdc, +5Vdc, +3V3/")
-		(sheetfile "brew_stm8s207_v421_stm8s207_2.kicad_sch")
+		(sheetfile "brew_HW_stm8s207_2.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 7.65 -3.26)
@@ -5444,7 +5444,7 @@
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/4b3e4e39-caaa-4705-bdb7-10020572d799/1723486a-3070-49be-a533-428047660f97")
 		(sheetname "/Power Supply +24V, +7 Vdc, +5Vdc, +3V3/")
-		(sheetfile "brew_stm8s207_v421_stm8s207_2.kicad_sch")
+		(sheetfile "brew_HW_stm8s207_2.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 1.6 -1.135)
@@ -5666,7 +5666,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/9d766ec7-967d-40cb-8ee4-3cf55c3b35af/56a05740-c73a-4546-a2f7-3d5023e34253")
 		(sheetname "/Digital IO and Connectors/")
-		(sheetfile "brew_stm8s207_v421_stm8s207_3.kicad_sch")
+		(sheetfile "brew_HW_stm8s207_3.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 1.33 -1.33)
@@ -5941,7 +5941,7 @@
 		(property ki_fp_filters "IDC?Header*2x05* Pin?Header*2x05*")
 		(path "/9d766ec7-967d-40cb-8ee4-3cf55c3b35af/b8916a73-080f-47b9-bf43-99edb8d20a58")
 		(sheetname "/Digital IO and Connectors/")
-		(sheetfile "brew_stm8s207_v421_stm8s207_3.kicad_sch")
+		(sheetfile "brew_HW_stm8s207_3.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -2.06 -2.56)
@@ -6508,7 +6508,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/9d766ec7-967d-40cb-8ee4-3cf55c3b35af/057a3802-71f8-4071-b43b-bb7009cf5f8c")
 		(sheetname "/Digital IO and Connectors/")
-		(sheetfile "brew_stm8s207_v421_stm8s207_3.kicad_sch")
+		(sheetfile "brew_HW_stm8s207_3.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 1.33 -1.33)
@@ -6794,7 +6794,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/9d766ec7-967d-40cb-8ee4-3cf55c3b35af/ca029a26-9088-44f2-8ab3-eaee862fcefe")
 		(sheetname "/Digital IO and Connectors/")
-		(sheetfile "brew_stm8s207_v421_stm8s207_3.kicad_sch")
+		(sheetfile "brew_HW_stm8s207_3.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.727064 -0.91)
@@ -6993,7 +6993,7 @@
 		(property ki_fp_filters "Connector*:*_2x??_*")
 		(path "/99fc4b3c-8fe7-4234-a079-3ca6d7338ba8/191a0033-a44b-4163-adea-ecd87e428b77")
 		(sheetname "/STM8S207 Microcontroller/")
-		(sheetfile "brew_stm8s207_v421_stm8s207_1.kicad_sch")
+		(sheetfile "brew_HW_stm8s207_1.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -3.87 -1.33)
@@ -7338,7 +7338,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/9d766ec7-967d-40cb-8ee4-3cf55c3b35af/3a4b8531-05eb-4fc8-9f1b-f32248015d14")
 		(sheetname "/Digital IO and Connectors/")
-		(sheetfile "brew_stm8s207_v421_stm8s207_3.kicad_sch")
+		(sheetfile "brew_HW_stm8s207_3.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -4.51 -1.65)
@@ -7751,7 +7751,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/9d766ec7-967d-40cb-8ee4-3cf55c3b35af/249abd89-2cba-4ec4-b8cd-93f3dd3e2ac3")
 		(sheetname "/Digital IO and Connectors/")
-		(sheetfile "brew_stm8s207_v421_stm8s207_3.kicad_sch")
+		(sheetfile "brew_HW_stm8s207_3.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -1.33 1.27)
@@ -8005,7 +8005,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/99fc4b3c-8fe7-4234-a079-3ca6d7338ba8/042816a4-2867-48f5-8664-9c1a5749d2f9")
 		(sheetname "/STM8S207 Microcontroller/")
-		(sheetfile "brew_stm8s207_v421_stm8s207_1.kicad_sch")
+		(sheetfile "brew_HW_stm8s207_1.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 1.33 -1.33)
@@ -8291,7 +8291,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/99fc4b3c-8fe7-4234-a079-3ca6d7338ba8/ee22811f-e8c7-4d45-93ff-ed0e3b811e96")
 		(sheetname "/STM8S207 Microcontroller/")
-		(sheetfile "brew_stm8s207_v421_stm8s207_1.kicad_sch")
+		(sheetfile "brew_HW_stm8s207_1.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -1.804775 -1.475)
@@ -9638,7 +9638,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/9d766ec7-967d-40cb-8ee4-3cf55c3b35af/7ae7c489-e008-46a8-8540-9b635554d850")
 		(sheetname "/Digital IO and Connectors/")
-		(sheetfile "brew_stm8s207_v421_stm8s207_3.kicad_sch")
+		(sheetfile "brew_HW_stm8s207_3.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -1.33 1.27)
@@ -9891,7 +9891,7 @@
 		(property ki_fp_filters "CP_*")
 		(path "/4b3e4e39-caaa-4705-bdb7-10020572d799/bda95453-ec01-4c51-98be-f543ac859178")
 		(sheetname "/Power Supply +24V, +7 Vdc, +5Vdc, +3V3/")
-		(sheetfile "brew_stm8s207_v421_stm8s207_2.kicad_sch")
+		(sheetfile "brew_HW_stm8s207_2.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -1.804775 -1.475)
@@ -11236,7 +11236,7 @@
 		(property ki_fp_filters "CP_*")
 		(path "/4b3e4e39-caaa-4705-bdb7-10020572d799/363814b6-3828-400a-922c-38b328a60a00")
 		(sheetname "/Power Supply +24V, +7 Vdc, +5Vdc, +3V3/")
-		(sheetfile "brew_stm8s207_v421_stm8s207_2.kicad_sch")
+		(sheetfile "brew_HW_stm8s207_2.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 6.07 1.44)
@@ -13911,7 +13911,7 @@
 		(property ki_fp_filters "CP_*")
 		(path "/9d766ec7-967d-40cb-8ee4-3cf55c3b35af/cab6ba90-ff11-45aa-b01a-d336f96eea14")
 		(sheetname "/Digital IO and Connectors/")
-		(sheetfile "brew_stm8s207_v421_stm8s207_3.kicad_sch")
+		(sheetfile "brew_HW_stm8s207_3.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 3.6 -0.283)
@@ -15256,7 +15256,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/9d766ec7-967d-40cb-8ee4-3cf55c3b35af/1d32e121-871d-4a64-a3fe-13220450ea25")
 		(sheetname "/Digital IO and Connectors/")
-		(sheetfile "brew_stm8s207_v421_stm8s207_3.kicad_sch")
+		(sheetfile "brew_HW_stm8s207_3.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.727064 -0.91)
@@ -15455,7 +15455,7 @@
 		(property ki_fp_filters "CP_*")
 		(path "/4b3e4e39-caaa-4705-bdb7-10020572d799/b6379280-8487-4f4d-a178-b6edb655acc9")
 		(sheetname "/Power Supply +24V, +7 Vdc, +5Vdc, +3V3/")
-		(sheetfile "brew_stm8s207_v421_stm8s207_2.kicad_sch")
+		(sheetfile "brew_HW_stm8s207_2.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -3.869543 -3.995)
@@ -18131,7 +18131,7 @@
 		(property ki_fp_filters "LQFP*10x10mm*P0.5mm*")
 		(path "/99fc4b3c-8fe7-4234-a079-3ca6d7338ba8/f2cb627e-aee2-411e-9f25-0d8f3cf36792")
 		(sheetname "/STM8S207 Microcontroller/")
-		(sheetfile "brew_stm8s207_v421_stm8s207_1.kicad_sch")
+		(sheetfile "brew_HW_stm8s207_1.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 5.11 -5.11)
@@ -19170,7 +19170,7 @@
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/4b3e4e39-caaa-4705-bdb7-10020572d799/bbaffe7e-a157-4ed5-a886-0113c9a57678")
 		(sheetname "/Power Supply +24V, +7 Vdc, +5Vdc, +3V3/")
-		(sheetfile "brew_stm8s207_v421_stm8s207_2.kicad_sch")
+		(sheetfile "brew_HW_stm8s207_2.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 1.6 -1.135)
@@ -19494,7 +19494,7 @@
 		(property ki_fp_filters "SOT?223*")
 		(path "/9d766ec7-967d-40cb-8ee4-3cf55c3b35af/fbee337c-6bbe-4f68-9369-0dc6fba8eed9")
 		(sheetname "/Digital IO and Connectors/")
-		(sheetfile "brew_stm8s207_v421_stm8s207_3.kicad_sch")
+		(sheetfile "brew_HW_stm8s207_3.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 1.91 -3.41)
@@ -19757,7 +19757,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/9d766ec7-967d-40cb-8ee4-3cf55c3b35af/6de9561b-c363-4fa2-bab6-387ee5d1ffc2")
 		(sheetname "/Digital IO and Connectors/")
-		(sheetfile "brew_stm8s207_v421_stm8s207_3.kicad_sch")
+		(sheetfile "brew_HW_stm8s207_3.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.727064 -0.91)
@@ -19956,7 +19956,7 @@
 		(property ki_fp_filters "Connector*:*_2x??_*")
 		(path "/99fc4b3c-8fe7-4234-a079-3ca6d7338ba8/49f3d70f-b069-47ce-8b11-7733950c7382")
 		(sheetname "/STM8S207 Microcontroller/")
-		(sheetfile "brew_stm8s207_v421_stm8s207_1.kicad_sch")
+		(sheetfile "brew_HW_stm8s207_1.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -3.87 -1.33)
@@ -20339,7 +20339,7 @@
 		(property ki_fp_filters "IDC?Header*2x05* Pin?Header*2x05*")
 		(path "/9d766ec7-967d-40cb-8ee4-3cf55c3b35af/1ca066a0-398b-495b-897d-570f7687b817")
 		(sheetname "/Digital IO and Connectors/")
-		(sheetfile "brew_stm8s207_v421_stm8s207_3.kicad_sch")
+		(sheetfile "brew_HW_stm8s207_3.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -2.06 -2.56)
@@ -20704,7 +20704,7 @@
 		(property ki_fp_filters "TO?220*")
 		(path "/4b3e4e39-caaa-4705-bdb7-10020572d799/c6ac165f-0584-4222-bcb7-595edeb76724")
 		(sheetname "/Power Supply +24V, +7 Vdc, +5Vdc, +3V3/")
-		(sheetfile "brew_stm8s207_v421_stm8s207_2.kicad_sch")
+		(sheetfile "brew_HW_stm8s207_2.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 7.65 -3.26)
@@ -20943,7 +20943,7 @@
 		(property ki_fp_filters "Pin* Test*")
 		(path "/4b3e4e39-caaa-4705-bdb7-10020572d799/8f14116f-9ddf-4906-b77e-66d0ce955e0e")
 		(sheetname "/Power Supply +24V, +7 Vdc, +5Vdc, +3V3/")
-		(sheetfile "brew_stm8s207_v421_stm8s207_2.kicad_sch")
+		(sheetfile "brew_HW_stm8s207_2.kicad_sch")
 		(attr through_hole)
 		(fp_circle
 			(center 0 0)
@@ -21136,7 +21136,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/9d766ec7-967d-40cb-8ee4-3cf55c3b35af/f8d0f111-5516-4083-9509-e36a35d355f6")
 		(sheetname "/Digital IO and Connectors/")
-		(sheetfile "brew_stm8s207_v421_stm8s207_3.kicad_sch")
+		(sheetfile "brew_HW_stm8s207_3.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -4.51 -1.65)
@@ -21547,7 +21547,7 @@
 		(property ki_fp_filters "SOT?23*")
 		(path "/99fc4b3c-8fe7-4234-a079-3ca6d7338ba8/cb737527-ff3a-43ca-bdcc-e7d4c76d7880")
 		(sheetname "/STM8S207 Microcontroller/")
-		(sheetfile "brew_stm8s207_v421_stm8s207_1.kicad_sch")
+		(sheetfile "brew_HW_stm8s207_1.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.76 -1.56)
@@ -21888,7 +21888,7 @@
 		(property ki_fp_filters "Pin* Test*")
 		(path "/4b3e4e39-caaa-4705-bdb7-10020572d799/c83f81b3-e88d-4dbc-8669-9e4cd8a1f2d8")
 		(sheetname "/Power Supply +24V, +7 Vdc, +5Vdc, +3V3/")
-		(sheetfile "brew_stm8s207_v421_stm8s207_2.kicad_sch")
+		(sheetfile "brew_HW_stm8s207_2.kicad_sch")
 		(attr through_hole)
 		(fp_circle
 			(center 0 0)
@@ -22053,7 +22053,7 @@
 		(property ki_fp_filters "SOT?23*")
 		(path "/99fc4b3c-8fe7-4234-a079-3ca6d7338ba8/8fdf14e5-b06f-4e9f-a481-245a6a9b34fe")
 		(sheetname "/STM8S207 Microcontroller/")
-		(sheetfile "brew_stm8s207_v421_stm8s207_1.kicad_sch")
+		(sheetfile "brew_HW_stm8s207_1.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.76 -1.56)
@@ -22378,7 +22378,7 @@
 		(property ki_fp_filters "CP_*")
 		(path "/4b3e4e39-caaa-4705-bdb7-10020572d799/85eed5fb-b7af-43e8-a409-52cb4bdb0bc2")
 		(sheetname "/Power Supply +24V, +7 Vdc, +5Vdc, +3V3/")
-		(sheetfile "brew_stm8s207_v421_stm8s207_2.kicad_sch")
+		(sheetfile "brew_HW_stm8s207_2.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -3.869543 -3.995)
@@ -25053,7 +25053,7 @@
 		(property ki_fp_filters "IDC?Header*2x05* Pin?Header*2x05*")
 		(path "/9d766ec7-967d-40cb-8ee4-3cf55c3b35af/fe69d3f2-0f87-491e-95ec-8ddf99b7fa7a")
 		(sheetname "/Digital IO and Connectors/")
-		(sheetfile "brew_stm8s207_v421_stm8s207_3.kicad_sch")
+		(sheetfile "brew_HW_stm8s207_3.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -2.06 -2.56)
@@ -25422,7 +25422,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/99fc4b3c-8fe7-4234-a079-3ca6d7338ba8/f63e147e-d8d6-461d-b80d-3aa768dee54f")
 		(sheetname "/STM8S207 Microcontroller/")
-		(sheetfile "brew_stm8s207_v421_stm8s207_1.kicad_sch")
+		(sheetfile "brew_HW_stm8s207_1.kicad_sch")
 		(fp_line
 			(start -5.588 -3.175)
 			(end -5.588 -2.032)
@@ -25804,7 +25804,7 @@
 		(property ki_fp_filters "Relay*SPDT*Omron*G5V?1*")
 		(path "/9d766ec7-967d-40cb-8ee4-3cf55c3b35af/45d86d28-5e62-48c2-974c-63d4fb464523")
 		(sheetname "/Digital IO and Connectors/")
-		(sheetfile "brew_stm8s207_v421_stm8s207_3.kicad_sch")
+		(sheetfile "brew_HW_stm8s207_3.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -1.6 -1.5)
@@ -26187,7 +26187,7 @@
 		(property ki_fp_filters "Relay*SPDT*Omron*G5V?1*")
 		(path "/9d766ec7-967d-40cb-8ee4-3cf55c3b35af/ae6282cd-5053-46b0-b539-b4e7da40d86c")
 		(sheetname "/Digital IO and Connectors/")
-		(sheetfile "brew_stm8s207_v421_stm8s207_3.kicad_sch")
+		(sheetfile "brew_HW_stm8s207_3.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -1.6 -1.5)
@@ -26570,7 +26570,7 @@
 		(property ki_fp_filters "Relay*SPDT*Omron*G5V?1*")
 		(path "/9d766ec7-967d-40cb-8ee4-3cf55c3b35af/391d28ed-212b-407c-8330-3587cd1842d4")
 		(sheetname "/Digital IO and Connectors/")
-		(sheetfile "brew_stm8s207_v421_stm8s207_3.kicad_sch")
+		(sheetfile "brew_HW_stm8s207_3.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -1.6 -1.5)
@@ -26951,7 +26951,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/9d766ec7-967d-40cb-8ee4-3cf55c3b35af/2cf991f7-3529-4989-94d2-53a6699ea2b1")
 		(sheetname "/Digital IO and Connectors/")
-		(sheetfile "brew_stm8s207_v421_stm8s207_3.kicad_sch")
+		(sheetfile "brew_HW_stm8s207_3.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.727064 -0.91)
@@ -27152,7 +27152,7 @@
 		(property ki_fp_filters "Relay*SPDT*Omron*G5V?1*")
 		(path "/9d766ec7-967d-40cb-8ee4-3cf55c3b35af/9921c878-26d9-46d3-bc6a-241f1bd77cbb")
 		(sheetname "/Digital IO and Connectors/")
-		(sheetfile "brew_stm8s207_v421_stm8s207_3.kicad_sch")
+		(sheetfile "brew_HW_stm8s207_3.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -1.6 -1.5)
@@ -27533,7 +27533,7 @@
 		(property ki_fp_filters "IDC?Header*2x05* Pin?Header*2x05*")
 		(path "/9d766ec7-967d-40cb-8ee4-3cf55c3b35af/680dfef1-342d-4bb1-9f0c-d2dbe1207e64")
 		(sheetname "/Digital IO and Connectors/")
-		(sheetfile "brew_stm8s207_v421_stm8s207_3.kicad_sch")
+		(sheetfile "brew_HW_stm8s207_3.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -2.06 -2.56)
@@ -27899,7 +27899,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/99fc4b3c-8fe7-4234-a079-3ca6d7338ba8/c0dadb0a-71ec-4584-b101-ca8ad93c9f56")
 		(sheetname "/STM8S207 Microcontroller/")
-		(sheetfile "brew_stm8s207_v421_stm8s207_1.kicad_sch")
+		(sheetfile "brew_HW_stm8s207_1.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -1.38 -1.38)
@@ -28220,7 +28220,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/9d766ec7-967d-40cb-8ee4-3cf55c3b35af/9070ccb5-aca4-4a54-a2d5-c0e344260b74")
 		(sheetname "/Digital IO and Connectors/")
-		(sheetfile "brew_stm8s207_v421_stm8s207_3.kicad_sch")
+		(sheetfile "brew_HW_stm8s207_3.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -1.33 1.27)
@@ -28473,7 +28473,7 @@
 		(property ki_fp_filters "*PTC* *Thermistor* PIN?ARRAY* bornier* *Terminal?Block* R_*")
 		(path "/9d766ec7-967d-40cb-8ee4-3cf55c3b35af/aaed840e-6c95-4d11-a00c-4f861acb2ae5")
 		(sheetname "/Digital IO and Connectors/")
-		(sheetfile "brew_stm8s207_v421_stm8s207_3.kicad_sch")
+		(sheetfile "brew_HW_stm8s207_3.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -3.12 -3.62)
@@ -28680,7 +28680,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/99fc4b3c-8fe7-4234-a079-3ca6d7338ba8/65d74d22-1940-428f-9557-e1e5c4325fc2")
 		(sheetname "/STM8S207 Microcontroller/")
-		(sheetfile "brew_stm8s207_v421_stm8s207_1.kicad_sch")
+		(sheetfile "brew_HW_stm8s207_1.kicad_sch")
 		(fp_line
 			(start -5.588 -3.175)
 			(end -5.588 -2.032)
@@ -29063,7 +29063,7 @@
 		(property ki_fp_filters "Pin* Test*")
 		(path "/4b3e4e39-caaa-4705-bdb7-10020572d799/154362de-0af1-4772-a1db-aecdc4f573f3")
 		(sheetname "/Power Supply +24V, +7 Vdc, +5Vdc, +3V3/")
-		(sheetfile "brew_stm8s207_v421_stm8s207_2.kicad_sch")
+		(sheetfile "brew_HW_stm8s207_2.kicad_sch")
 		(attr through_hole)
 		(fp_circle
 			(center 0 0)
@@ -29228,7 +29228,7 @@
 		(property ki_fp_filters "Connector*:*_2x??_*")
 		(path "/99fc4b3c-8fe7-4234-a079-3ca6d7338ba8/0a21c66b-e225-4247-a8b9-29df829b1829")
 		(sheetname "/STM8S207 Microcontroller/")
-		(sheetfile "brew_stm8s207_v421_stm8s207_1.kicad_sch")
+		(sheetfile "brew_HW_stm8s207_1.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -3.87 -1.33)
@@ -29547,7 +29547,7 @@
 		(property ki_fp_filters "6P6C* RJ12* RJ18* RJ25*")
 		(path "/9d766ec7-967d-40cb-8ee4-3cf55c3b35af/8fb5c714-235a-493b-a7b8-74823f817dd2")
 		(sheetname "/Digital IO and Connectors/")
-		(sheetfile "brew_stm8s207_v421_stm8s207_3.kicad_sch")
+		(sheetfile "brew_HW_stm8s207_3.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 9.89 10.45)
@@ -29953,7 +29953,7 @@
 		(property ki_fp_filters "CP_*")
 		(path "/4b3e4e39-caaa-4705-bdb7-10020572d799/8aa2817b-3125-4b26-b2ec-1f1ed79a754a")
 		(sheetname "/Power Supply +24V, +7 Vdc, +5Vdc, +3V3/")
-		(sheetfile "brew_stm8s207_v421_stm8s207_2.kicad_sch")
+		(sheetfile "brew_HW_stm8s207_2.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -3.869543 -3.995)
@@ -32629,7 +32629,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/9d766ec7-967d-40cb-8ee4-3cf55c3b35af/a1e13538-d779-4181-9974-8e8b0d96c319")
 		(sheetname "/Digital IO and Connectors/")
-		(sheetfile "brew_stm8s207_v421_stm8s207_3.kicad_sch")
+		(sheetfile "brew_HW_stm8s207_3.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -1.33 1.27)
@@ -32915,7 +32915,7 @@
 		(property ki_fp_filters "CP_*")
 		(path "/9d766ec7-967d-40cb-8ee4-3cf55c3b35af/b594f415-c561-4626-a245-bc206e979c9f")
 		(sheetname "/Digital IO and Connectors/")
-		(sheetfile "brew_stm8s207_v421_stm8s207_3.kicad_sch")
+		(sheetfile "brew_HW_stm8s207_3.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 1 1.04)
@@ -34260,7 +34260,7 @@
 		(property ki_fp_filters "*TO?220*")
 		(path "/4b3e4e39-caaa-4705-bdb7-10020572d799/abc6a2ba-bdb7-4829-8ca1-d552d66436ef")
 		(sheetname "/Power Supply +24V, +7 Vdc, +5Vdc, +3V3/")
-		(sheetfile "brew_stm8s207_v421_stm8s207_2.kicad_sch")
+		(sheetfile "brew_HW_stm8s207_2.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 7.65 -3.26)
@@ -34496,7 +34496,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/9d766ec7-967d-40cb-8ee4-3cf55c3b35af/44f4f13d-07e4-478b-a79b-a5a215d98ba8")
 		(sheetname "/Digital IO and Connectors/")
-		(sheetfile "brew_stm8s207_v421_stm8s207_3.kicad_sch")
+		(sheetfile "brew_HW_stm8s207_3.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.727064 -0.91)
@@ -34695,7 +34695,7 @@
 		(property ki_fp_filters "CP_*")
 		(path "/9d766ec7-967d-40cb-8ee4-3cf55c3b35af/c29c1021-f7a6-4317-a652-4e9eafc4ca81")
 		(sheetname "/Digital IO and Connectors/")
-		(sheetfile "brew_stm8s207_v421_stm8s207_3.kicad_sch")
+		(sheetfile "brew_HW_stm8s207_3.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 3.6 -0.283)
@@ -36040,7 +36040,7 @@
 		(property ki_fp_filters "CP_*")
 		(path "/4b3e4e39-caaa-4705-bdb7-10020572d799/93dcf460-56c6-4c65-bf1d-0699f4f04dfb")
 		(sheetname "/Power Supply +24V, +7 Vdc, +5Vdc, +3V3/")
-		(sheetfile "brew_stm8s207_v421_stm8s207_2.kicad_sch")
+		(sheetfile "brew_HW_stm8s207_2.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -3.869543 -3.995)
@@ -38715,7 +38715,7 @@
 		(property ki_fp_filters "CP_*")
 		(path "/4b3e4e39-caaa-4705-bdb7-10020572d799/9621f97d-1b15-4823-94d1-a9ceca54cb5b")
 		(sheetname "/Power Supply +24V, +7 Vdc, +5Vdc, +3V3/")
-		(sheetfile "brew_stm8s207_v421_stm8s207_2.kicad_sch")
+		(sheetfile "brew_HW_stm8s207_2.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -1.804775 -1.475)
@@ -40062,7 +40062,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/9d766ec7-967d-40cb-8ee4-3cf55c3b35af/4ce34b94-d07b-4625-ac47-cc39cb925fb5")
 		(sheetname "/Digital IO and Connectors/")
-		(sheetfile "brew_stm8s207_v421_stm8s207_3.kicad_sch")
+		(sheetfile "brew_HW_stm8s207_3.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -1.33 1.27)
@@ -40318,7 +40318,7 @@
 		(property ki_fp_filters "Pin* Test*")
 		(path "/4b3e4e39-caaa-4705-bdb7-10020572d799/68c08d09-7b5f-470b-b162-64a4928dc9db")
 		(sheetname "/Power Supply +24V, +7 Vdc, +5Vdc, +3V3/")
-		(sheetfile "brew_stm8s207_v421_stm8s207_2.kicad_sch")
+		(sheetfile "brew_HW_stm8s207_2.kicad_sch")
 		(attr through_hole)
 		(fp_circle
 			(center 0 0)
@@ -40485,7 +40485,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/9d766ec7-967d-40cb-8ee4-3cf55c3b35af/80543c14-1b8e-4dad-90a6-7c6369b81cf9")
 		(sheetname "/Digital IO and Connectors/")
-		(sheetfile "brew_stm8s207_v421_stm8s207_3.kicad_sch")
+		(sheetfile "brew_HW_stm8s207_3.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -1.33 1.27)
@@ -40738,7 +40738,7 @@
 		(property ki_fp_filters "SOIC*3.9x4.9mm*P1.27mm* DIP*W7.62mm* SOP*5.28x5.23mm*P1.27mm* VSSOP*3x3mm*P0.65mm* TSSOP*4.4x3mm*P0.65mm*")
 		(path "/4b3e4e39-caaa-4705-bdb7-10020572d799/07dc9e28-20ca-4d8f-8087-0cb2e027ed1b")
 		(sheetname "/Power Supply +24V, +7 Vdc, +5Vdc, +3V3/")
-		(sheetfile "brew_stm8s207_v421_stm8s207_2.kicad_sch")
+		(sheetfile "brew_HW_stm8s207_2.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 1.16 -1.33)
@@ -41030,7 +41030,7 @@
 		(property ki_fp_filters "Relay*SPDT*Omron*G5V?1*")
 		(path "/9d766ec7-967d-40cb-8ee4-3cf55c3b35af/4d2d283e-3454-4c55-ad8c-9f9bec62bde5")
 		(sheetname "/Digital IO and Connectors/")
-		(sheetfile "brew_stm8s207_v421_stm8s207_3.kicad_sch")
+		(sheetfile "brew_HW_stm8s207_3.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -1.6 -1.5)
@@ -41413,7 +41413,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/9d766ec7-967d-40cb-8ee4-3cf55c3b35af/9284a3b8-4b7c-49db-9b8e-625de90ee681")
 		(sheetname "/Digital IO and Connectors/")
-		(sheetfile "brew_stm8s207_v421_stm8s207_3.kicad_sch")
+		(sheetfile "brew_HW_stm8s207_3.kicad_sch")
 		(fp_line
 			(start -7 0)
 			(end -7 12.4)
@@ -41612,7 +41612,7 @@
 		(property ki_fp_filters "*PTC* *Thermistor* PIN?ARRAY* bornier* *Terminal?Block* R_*")
 		(path "/9d766ec7-967d-40cb-8ee4-3cf55c3b35af/97bef505-64bd-4048-ad30-261adced46f1")
 		(sheetname "/Digital IO and Connectors/")
-		(sheetfile "brew_stm8s207_v421_stm8s207_3.kicad_sch")
+		(sheetfile "brew_HW_stm8s207_3.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -3.12 -3.62)
@@ -41816,7 +41816,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/99fc4b3c-8fe7-4234-a079-3ca6d7338ba8/0e1d40fa-510a-477d-90b3-78869c22870b")
 		(sheetname "/STM8S207 Microcontroller/")
-		(sheetfile "brew_stm8s207_v421_stm8s207_1.kicad_sch")
+		(sheetfile "brew_HW_stm8s207_1.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 1.33 -1.33)
@@ -42094,7 +42094,7 @@
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/4b3e4e39-caaa-4705-bdb7-10020572d799/b5137329-7bcc-485f-af80-c3a698256893")
 		(sheetname "/Power Supply +24V, +7 Vdc, +5Vdc, +3V3/")
-		(sheetfile "brew_stm8s207_v421_stm8s207_2.kicad_sch")
+		(sheetfile "brew_HW_stm8s207_2.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 1.6 -1.135)
@@ -42329,7 +42329,7 @@
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/4b3e4e39-caaa-4705-bdb7-10020572d799/35e4c234-dd26-4cf6-8e05-1b0249b3a855")
 		(sheetname "/Power Supply +24V, +7 Vdc, +5Vdc, +3V3/")
-		(sheetfile "brew_stm8s207_v421_stm8s207_2.kicad_sch")
+		(sheetfile "brew_HW_stm8s207_2.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 1.6 -1.135)
@@ -42550,7 +42550,7 @@
 		(property ki_fp_filters "CP_*")
 		(path "/9d766ec7-967d-40cb-8ee4-3cf55c3b35af/281b3317-0788-437b-882f-6edc2bbb7b11")
 		(sheetname "/Digital IO and Connectors/")
-		(sheetfile "brew_stm8s207_v421_stm8s207_3.kicad_sch")
+		(sheetfile "brew_HW_stm8s207_3.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 1 1.04)
@@ -43895,7 +43895,7 @@
 		(property ki_fp_filters "CP_*")
 		(path "/9d766ec7-967d-40cb-8ee4-3cf55c3b35af/07039dd5-e81b-4074-9f2e-13902357073a")
 		(sheetname "/Digital IO and Connectors/")
-		(sheetfile "brew_stm8s207_v421_stm8s207_3.kicad_sch")
+		(sheetfile "brew_HW_stm8s207_3.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 1 1.04)
@@ -45240,7 +45240,7 @@
 		(property ki_fp_filters "CP_*")
 		(path "/9d766ec7-967d-40cb-8ee4-3cf55c3b35af/f7500726-2ce5-4229-8dbf-c80f4e6bc028")
 		(sheetname "/Digital IO and Connectors/")
-		(sheetfile "brew_stm8s207_v421_stm8s207_3.kicad_sch")
+		(sheetfile "brew_HW_stm8s207_3.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 1 1.04)
@@ -46585,7 +46585,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/99fc4b3c-8fe7-4234-a079-3ca6d7338ba8/8a3d2edf-2b81-4bd2-b8f8-8b49a7b749e3")
 		(sheetname "/STM8S207 Microcontroller/")
-		(sheetfile "brew_stm8s207_v421_stm8s207_1.kicad_sch")
+		(sheetfile "brew_HW_stm8s207_1.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.727064 -0.91)
@@ -46901,7 +46901,7 @@
 		(property ki_fp_filters "Pin* Test*")
 		(path "/4b3e4e39-caaa-4705-bdb7-10020572d799/4d3521d8-a104-4c42-bbc5-d6bb196fb25b")
 		(sheetname "/Power Supply +24V, +7 Vdc, +5Vdc, +3V3/")
-		(sheetfile "brew_stm8s207_v421_stm8s207_2.kicad_sch")
+		(sheetfile "brew_HW_stm8s207_2.kicad_sch")
 		(attr through_hole)
 		(fp_circle
 			(center 0 0)
@@ -47067,7 +47067,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/99fc4b3c-8fe7-4234-a079-3ca6d7338ba8/2d4059d0-f7cc-4614-ac24-693f41aa243a")
 		(sheetname "/STM8S207 Microcontroller/")
-		(sheetfile "brew_stm8s207_v421_stm8s207_1.kicad_sch")
+		(sheetfile "brew_HW_stm8s207_1.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -1.38 -1.38)
@@ -47402,7 +47402,7 @@
 		(property ki_fp_filters "Pin* Test*")
 		(path "/99fc4b3c-8fe7-4234-a079-3ca6d7338ba8/94742e4e-afcc-4524-89ee-2cf1f46081ed")
 		(sheetname "/STM8S207 Microcontroller/")
-		(sheetfile "brew_stm8s207_v421_stm8s207_1.kicad_sch")
+		(sheetfile "brew_HW_stm8s207_1.kicad_sch")
 		(attr through_hole)
 		(fp_circle
 			(center 0 0)
@@ -47567,7 +47567,7 @@
 		(property ki_fp_filters "CP_*")
 		(path "/4b3e4e39-caaa-4705-bdb7-10020572d799/c08a46a2-22ef-4fc8-a254-c19563d865e8")
 		(sheetname "/Power Supply +24V, +7 Vdc, +5Vdc, +3V3/")
-		(sheetfile "brew_stm8s207_v421_stm8s207_2.kicad_sch")
+		(sheetfile "brew_HW_stm8s207_2.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -3.869543 -3.995)
@@ -50242,7 +50242,7 @@
 		(property ki_fp_filters "CP_*")
 		(path "/4b3e4e39-caaa-4705-bdb7-10020572d799/4da32eef-4679-43df-91dc-aacbd62a0a71")
 		(sheetname "/Power Supply +24V, +7 Vdc, +5Vdc, +3V3/")
-		(sheetfile "brew_stm8s207_v421_stm8s207_2.kicad_sch")
+		(sheetfile "brew_HW_stm8s207_2.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -1.804775 -1.475)
@@ -51587,7 +51587,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/99fc4b3c-8fe7-4234-a079-3ca6d7338ba8/23e30afa-e893-4bbd-a88e-93d6989d6c52")
 		(sheetname "/STM8S207 Microcontroller/")
-		(sheetfile "brew_stm8s207_v421_stm8s207_1.kicad_sch")
+		(sheetfile "brew_HW_stm8s207_1.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.727064 -0.91)
@@ -51800,7 +51800,7 @@
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/4b3e4e39-caaa-4705-bdb7-10020572d799/f6418ff4-d517-490c-86b7-2c5ad1c1bbe8")
 		(sheetname "/Power Supply +24V, +7 Vdc, +5Vdc, +3V3/")
-		(sheetfile "brew_stm8s207_v421_stm8s207_2.kicad_sch")
+		(sheetfile "brew_HW_stm8s207_2.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 1.6 -1.135)
@@ -52023,7 +52023,7 @@
 		(property ki_fp_filters "SW*MEC*5G*")
 		(path "/99fc4b3c-8fe7-4234-a079-3ca6d7338ba8/4797707e-e4bc-4f04-b2a9-904c18d8da8b")
 		(sheetname "/STM8S207 Microcontroller/")
-		(sheetfile "brew_stm8s207_v421_stm8s207_1.kicad_sch")
+		(sheetfile "brew_HW_stm8s207_1.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 0 -1.27)
@@ -52316,7 +52316,7 @@
 		)
 		(path "/4b3e4e39-caaa-4705-bdb7-10020572d799/a7e4e9c2-1556-453e-a4ff-65725ba89ea5")
 		(sheetname "/Power Supply +24V, +7 Vdc, +5Vdc, +3V3/")
-		(sheetfile "brew_stm8s207_v421_stm8s207_2.kicad_sch")
+		(sheetfile "brew_HW_stm8s207_2.kicad_sch")
 		(fp_line
 			(start -22.098 10.668)
 			(end 22.098 10.668)
@@ -52520,7 +52520,7 @@
 		(property ki_fp_filters "Relay*SPDT*Omron*G5V?1*")
 		(path "/9d766ec7-967d-40cb-8ee4-3cf55c3b35af/eb8893b8-183d-4028-8f83-660c2f0b5095")
 		(sheetname "/Digital IO and Connectors/")
-		(sheetfile "brew_stm8s207_v421_stm8s207_3.kicad_sch")
+		(sheetfile "brew_HW_stm8s207_3.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -1.6 -1.5)
@@ -52901,7 +52901,7 @@
 		(property ki_fp_filters "*PTC* *Thermistor* PIN?ARRAY* bornier* *Terminal?Block* R_*")
 		(path "/9d766ec7-967d-40cb-8ee4-3cf55c3b35af/f8dc8d45-f1e5-4d01-a081-598403586c35")
 		(sheetname "/Digital IO and Connectors/")
-		(sheetfile "brew_stm8s207_v421_stm8s207_3.kicad_sch")
+		(sheetfile "brew_HW_stm8s207_3.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -3.12 -3.62)
@@ -53104,7 +53104,7 @@
 		(property ki_fp_filters "CP_*")
 		(path "/4b3e4e39-caaa-4705-bdb7-10020572d799/f8f64ad9-d202-40c3-8560-d042c089f0f3")
 		(sheetname "/Power Supply +24V, +7 Vdc, +5Vdc, +3V3/")
-		(sheetfile "brew_stm8s207_v421_stm8s207_2.kicad_sch")
+		(sheetfile "brew_HW_stm8s207_2.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -1.804775 -1.475)
@@ -54835,7 +54835,7 @@
 		(property ki_fp_filters "6P6C* RJ12* RJ18* RJ25*")
 		(path "/9d766ec7-967d-40cb-8ee4-3cf55c3b35af/25018d45-516c-4b79-b8a2-d6ae272a58b4")
 		(sheetname "/Digital IO and Connectors/")
-		(sheetfile "brew_stm8s207_v421_stm8s207_3.kicad_sch")
+		(sheetfile "brew_HW_stm8s207_3.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 9.89 10.45)
@@ -55243,7 +55243,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/9d766ec7-967d-40cb-8ee4-3cf55c3b35af/e0b0d451-9f24-45e8-92bf-d96bd31e0932")
 		(sheetname "/Digital IO and Connectors/")
-		(sheetfile "brew_stm8s207_v421_stm8s207_3.kicad_sch")
+		(sheetfile "brew_HW_stm8s207_3.kicad_sch")
 		(fp_line
 			(start -7 0)
 			(end -7 12.4)
@@ -55455,7 +55455,7 @@
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/99fc4b3c-8fe7-4234-a079-3ca6d7338ba8/4eb4624e-0096-4469-b042-35617fa88aab")
 		(sheetname "/STM8S207 Microcontroller/")
-		(sheetfile "brew_stm8s207_v421_stm8s207_1.kicad_sch")
+		(sheetfile "brew_HW_stm8s207_1.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -2.285 1.135)
@@ -55678,7 +55678,7 @@
 		(property ki_fp_filters "Relay*SPDT*Omron*G5V?1*")
 		(path "/9d766ec7-967d-40cb-8ee4-3cf55c3b35af/4800d192-0b2f-4d2f-8999-6a0ede11e009")
 		(sheetname "/Digital IO and Connectors/")
-		(sheetfile "brew_stm8s207_v421_stm8s207_3.kicad_sch")
+		(sheetfile "brew_HW_stm8s207_3.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -1.6 -1.5)
@@ -56061,7 +56061,7 @@
 		(property ki_fp_filters "Relay*SPDT*Omron*G5V?1*")
 		(path "/9d766ec7-967d-40cb-8ee4-3cf55c3b35af/503190a0-529c-4e18-acd0-fd50b485a135")
 		(sheetname "/Digital IO and Connectors/")
-		(sheetfile "brew_stm8s207_v421_stm8s207_3.kicad_sch")
+		(sheetfile "brew_HW_stm8s207_3.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -1.6 -1.5)
@@ -56441,7 +56441,7 @@
 		(property ki_fp_filters "Crystal*")
 		(path "/99fc4b3c-8fe7-4234-a079-3ca6d7338ba8/4dec225f-d9d8-494c-b746-1e40ca5a3aa7")
 		(sheetname "/STM8S207 Microcontroller/")
-		(sheetfile "brew_stm8s207_v421_stm8s207_1.kicad_sch")
+		(sheetfile "brew_HW_stm8s207_1.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 5.64 2.435)
@@ -56670,7 +56670,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/9d766ec7-967d-40cb-8ee4-3cf55c3b35af/16dbbdfa-6c7e-4b4a-b0ae-3623d31a3714")
 		(sheetname "/Digital IO and Connectors/")
-		(sheetfile "brew_stm8s207_v421_stm8s207_3.kicad_sch")
+		(sheetfile "brew_HW_stm8s207_3.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.727064 -0.91)
@@ -56871,7 +56871,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/9d766ec7-967d-40cb-8ee4-3cf55c3b35af/a7b91def-ac0c-4cae-b4aa-a7fc42f8fd7d")
 		(sheetname "/Digital IO and Connectors/")
-		(sheetfile "brew_stm8s207_v421_stm8s207_3.kicad_sch")
+		(sheetfile "brew_HW_stm8s207_3.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -1.33 1.27)
@@ -57126,7 +57126,7 @@
 		(property ki_fp_filters "*Buzzer*")
 		(path "/99fc4b3c-8fe7-4234-a079-3ca6d7338ba8/9e21861e-2437-4015-ace6-597bc54ea8ac")
 		(sheetname "/STM8S207 Microcontroller/")
-		(sheetfile "brew_stm8s207_v421_stm8s207_1.kicad_sch")
+		(sheetfile "brew_HW_stm8s207_1.kicad_sch")
 		(attr through_hole)
 		(fp_circle
 			(center 3.8 0)
@@ -57295,7 +57295,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/9d766ec7-967d-40cb-8ee4-3cf55c3b35af/521d0baa-0028-4df8-a705-22d7f6776567")
 		(sheetname "/Digital IO and Connectors/")
-		(sheetfile "brew_stm8s207_v421_stm8s207_3.kicad_sch")
+		(sheetfile "brew_HW_stm8s207_3.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.727064 -0.91)
@@ -57494,7 +57494,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/9d766ec7-967d-40cb-8ee4-3cf55c3b35af/733c7f38-d812-4c85-8f85-b4ac70c94c41")
 		(sheetname "/Digital IO and Connectors/")
-		(sheetfile "brew_stm8s207_v421_stm8s207_3.kicad_sch")
+		(sheetfile "brew_HW_stm8s207_3.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.727064 -0.91)
@@ -57695,7 +57695,7 @@
 		(property ki_fp_filters "SOT?223*")
 		(path "/9d766ec7-967d-40cb-8ee4-3cf55c3b35af/9fbccb19-c7be-47cc-a2b4-1fd9c9ce74d4")
 		(sheetname "/Digital IO and Connectors/")
-		(sheetfile "brew_stm8s207_v421_stm8s207_3.kicad_sch")
+		(sheetfile "brew_HW_stm8s207_3.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 1.91 -3.41)
@@ -57971,7 +57971,7 @@
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/99fc4b3c-8fe7-4234-a079-3ca6d7338ba8/7c2c047b-af7d-49e9-a176-ac7e172cae9c")
 		(sheetname "/STM8S207 Microcontroller/")
-		(sheetfile "brew_stm8s207_v421_stm8s207_1.kicad_sch")
+		(sheetfile "brew_HW_stm8s207_1.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -2.285 1.135)
@@ -58192,7 +58192,7 @@
 		(property ki_fp_filters "*PTC* *Thermistor* PIN?ARRAY* bornier* *Terminal?Block* R_*")
 		(path "/9d766ec7-967d-40cb-8ee4-3cf55c3b35af/a9d0ad5b-ee64-417f-87bc-b2a735cff2b4")
 		(sheetname "/Digital IO and Connectors/")
-		(sheetfile "brew_stm8s207_v421_stm8s207_3.kicad_sch")
+		(sheetfile "brew_HW_stm8s207_3.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -3.12 -3.62)
@@ -58397,7 +58397,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/9d766ec7-967d-40cb-8ee4-3cf55c3b35af/45016ba4-c472-4690-ab09-3f4ddc2afd70")
 		(sheetname "/Digital IO and Connectors/")
-		(sheetfile "brew_stm8s207_v421_stm8s207_3.kicad_sch")
+		(sheetfile "brew_HW_stm8s207_3.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -1.33 1.27)
@@ -58654,7 +58654,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/99fc4b3c-8fe7-4234-a079-3ca6d7338ba8/d4de424c-8ebb-4e2b-8029-a423942b7f74")
 		(sheetname "/STM8S207 Microcontroller/")
-		(sheetfile "brew_stm8s207_v421_stm8s207_1.kicad_sch")
+		(sheetfile "brew_HW_stm8s207_1.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.727064 -0.91)
@@ -58858,7 +58858,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/9d766ec7-967d-40cb-8ee4-3cf55c3b35af/0fe5f710-2af3-428d-a855-45e21d1fc867")
 		(sheetname "/Digital IO and Connectors/")
-		(sheetfile "brew_stm8s207_v421_stm8s207_3.kicad_sch")
+		(sheetfile "brew_HW_stm8s207_3.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.711252 0.91)
@@ -59062,7 +59062,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/9d766ec7-967d-40cb-8ee4-3cf55c3b35af/f9b2656c-948b-4589-8b2c-3167adcae5a8")
 		(sheetname "/Digital IO and Connectors/")
-		(sheetfile "brew_stm8s207_v421_stm8s207_3.kicad_sch")
+		(sheetfile "brew_HW_stm8s207_3.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.727064 -0.91)
@@ -59266,7 +59266,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/4b3e4e39-caaa-4705-bdb7-10020572d799/7d517c11-1f5b-4a4a-a2e0-557b567de761")
 		(sheetname "/Power Supply +24V, +7 Vdc, +5Vdc, +3V3/")
-		(sheetfile "brew_stm8s207_v421_stm8s207_2.kicad_sch")
+		(sheetfile "brew_HW_stm8s207_2.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.727064 -0.91)
@@ -59470,7 +59470,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/9d766ec7-967d-40cb-8ee4-3cf55c3b35af/1f7ed1c7-d3c7-49a2-9a9c-68213fb95c44")
 		(sheetname "/Digital IO and Connectors/")
-		(sheetfile "brew_stm8s207_v421_stm8s207_3.kicad_sch")
+		(sheetfile "brew_HW_stm8s207_3.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.727064 -0.91)
@@ -59674,7 +59674,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/4b3e4e39-caaa-4705-bdb7-10020572d799/3795a273-a232-4ec5-aa8d-6e9b16234ecc")
 		(sheetname "/Power Supply +24V, +7 Vdc, +5Vdc, +3V3/")
-		(sheetfile "brew_stm8s207_v421_stm8s207_2.kicad_sch")
+		(sheetfile "brew_HW_stm8s207_2.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.711252 -0.91)
@@ -59878,7 +59878,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/99fc4b3c-8fe7-4234-a079-3ca6d7338ba8/f22b4f1d-6c0b-41b8-9c0a-2314163d1ca6")
 		(sheetname "/STM8S207 Microcontroller/")
-		(sheetfile "brew_stm8s207_v421_stm8s207_1.kicad_sch")
+		(sheetfile "brew_HW_stm8s207_1.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.727064 0.91)
@@ -60082,7 +60082,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/9d766ec7-967d-40cb-8ee4-3cf55c3b35af/463ddcfe-9906-4197-8cfd-da350d89ee00")
 		(sheetname "/Digital IO and Connectors/")
-		(sheetfile "brew_stm8s207_v421_stm8s207_3.kicad_sch")
+		(sheetfile "brew_HW_stm8s207_3.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.711252 0.91)
@@ -60286,7 +60286,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/9d766ec7-967d-40cb-8ee4-3cf55c3b35af/38d8fd91-1905-4665-958a-90609227d36b")
 		(sheetname "/Digital IO and Connectors/")
-		(sheetfile "brew_stm8s207_v421_stm8s207_3.kicad_sch")
+		(sheetfile "brew_HW_stm8s207_3.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.727064 -0.91)
@@ -60490,7 +60490,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/99fc4b3c-8fe7-4234-a079-3ca6d7338ba8/a04aebf1-4b1c-43e4-8a41-3cec22f3901f")
 		(sheetname "/STM8S207 Microcontroller/")
-		(sheetfile "brew_stm8s207_v421_stm8s207_1.kicad_sch")
+		(sheetfile "brew_HW_stm8s207_1.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.711252 -0.91)
@@ -60694,7 +60694,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/9d766ec7-967d-40cb-8ee4-3cf55c3b35af/9ae31b6c-ed39-426a-a037-0c870d6bedb7")
 		(sheetname "/Digital IO and Connectors/")
-		(sheetfile "brew_stm8s207_v421_stm8s207_3.kicad_sch")
+		(sheetfile "brew_HW_stm8s207_3.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.727064 0.91)
@@ -60898,7 +60898,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/4b3e4e39-caaa-4705-bdb7-10020572d799/96acf284-430c-4c8d-9f43-004630fd68c4")
 		(sheetname "/Power Supply +24V, +7 Vdc, +5Vdc, +3V3/")
-		(sheetfile "brew_stm8s207_v421_stm8s207_2.kicad_sch")
+		(sheetfile "brew_HW_stm8s207_2.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.727064 0.91)
@@ -61102,7 +61102,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/99fc4b3c-8fe7-4234-a079-3ca6d7338ba8/a502cd55-9b6a-45a8-b321-5df3e18a686f")
 		(sheetname "/STM8S207 Microcontroller/")
-		(sheetfile "brew_stm8s207_v421_stm8s207_1.kicad_sch")
+		(sheetfile "brew_HW_stm8s207_1.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.727064 -0.91)
@@ -61306,7 +61306,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/9d766ec7-967d-40cb-8ee4-3cf55c3b35af/3d00f806-dbb4-46b1-a3a1-49183cb41154")
 		(sheetname "/Digital IO and Connectors/")
-		(sheetfile "brew_stm8s207_v421_stm8s207_3.kicad_sch")
+		(sheetfile "brew_HW_stm8s207_3.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.727064 0.91)
@@ -61510,7 +61510,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/99fc4b3c-8fe7-4234-a079-3ca6d7338ba8/bc0338d8-b4b0-415b-9968-a989bb8404c3")
 		(sheetname "/STM8S207 Microcontroller/")
-		(sheetfile "brew_stm8s207_v421_stm8s207_1.kicad_sch")
+		(sheetfile "brew_HW_stm8s207_1.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.711252 -0.91)
@@ -61714,7 +61714,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/99fc4b3c-8fe7-4234-a079-3ca6d7338ba8/dff24dcd-2b03-4b2e-8721-265f9e49edf2")
 		(sheetname "/STM8S207 Microcontroller/")
-		(sheetfile "brew_stm8s207_v421_stm8s207_1.kicad_sch")
+		(sheetfile "brew_HW_stm8s207_1.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.711252 -0.91)
@@ -61918,7 +61918,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/99fc4b3c-8fe7-4234-a079-3ca6d7338ba8/70c9d5b0-5f4e-4e29-8ef1-b1d73d68c4b4")
 		(sheetname "/STM8S207 Microcontroller/")
-		(sheetfile "brew_stm8s207_v421_stm8s207_1.kicad_sch")
+		(sheetfile "brew_HW_stm8s207_1.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.711252 -0.91)
@@ -62122,7 +62122,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/9d766ec7-967d-40cb-8ee4-3cf55c3b35af/bfed8d74-9d29-4296-bde4-5a6c78e62936")
 		(sheetname "/Digital IO and Connectors/")
-		(sheetfile "brew_stm8s207_v421_stm8s207_3.kicad_sch")
+		(sheetfile "brew_HW_stm8s207_3.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.727064 -0.91)
@@ -62326,7 +62326,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/9d766ec7-967d-40cb-8ee4-3cf55c3b35af/af7b4698-da91-4eec-bf99-ac01a8fb4314")
 		(sheetname "/Digital IO and Connectors/")
-		(sheetfile "brew_stm8s207_v421_stm8s207_3.kicad_sch")
+		(sheetfile "brew_HW_stm8s207_3.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.727064 0.91)
@@ -62530,7 +62530,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/9d766ec7-967d-40cb-8ee4-3cf55c3b35af/c445fa5e-7fe5-4da6-a931-c5120c35b62f")
 		(sheetname "/Digital IO and Connectors/")
-		(sheetfile "brew_stm8s207_v421_stm8s207_3.kicad_sch")
+		(sheetfile "brew_HW_stm8s207_3.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.711252 0.91)
@@ -62734,7 +62734,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/9d766ec7-967d-40cb-8ee4-3cf55c3b35af/cbfe0474-887d-437a-bd43-e63d0aebc49a")
 		(sheetname "/Digital IO and Connectors/")
-		(sheetfile "brew_stm8s207_v421_stm8s207_3.kicad_sch")
+		(sheetfile "brew_HW_stm8s207_3.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.711252 0.91)
@@ -62938,7 +62938,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/99fc4b3c-8fe7-4234-a079-3ca6d7338ba8/e6a04d48-d6bb-4ab6-9266-d04643a2c5b4")
 		(sheetname "/STM8S207 Microcontroller/")
-		(sheetfile "brew_stm8s207_v421_stm8s207_1.kicad_sch")
+		(sheetfile "brew_HW_stm8s207_1.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.711252 -0.91)
@@ -63142,7 +63142,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/99fc4b3c-8fe7-4234-a079-3ca6d7338ba8/458902a7-41f3-48ae-8cf1-b3632e026a97")
 		(sheetname "/STM8S207 Microcontroller/")
-		(sheetfile "brew_stm8s207_v421_stm8s207_1.kicad_sch")
+		(sheetfile "brew_HW_stm8s207_1.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.727064 0.91)
@@ -63346,7 +63346,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/99fc4b3c-8fe7-4234-a079-3ca6d7338ba8/6ed4cde6-f9da-4d63-9bb4-0a6b7985be70")
 		(sheetname "/STM8S207 Microcontroller/")
-		(sheetfile "brew_stm8s207_v421_stm8s207_1.kicad_sch")
+		(sheetfile "brew_HW_stm8s207_1.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.711252 -0.91)
@@ -63550,7 +63550,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/99fc4b3c-8fe7-4234-a079-3ca6d7338ba8/88703718-8c4a-4098-baa6-5acbd8a4aeee")
 		(sheetname "/STM8S207 Microcontroller/")
-		(sheetfile "brew_stm8s207_v421_stm8s207_1.kicad_sch")
+		(sheetfile "brew_HW_stm8s207_1.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.711252 -0.91)
@@ -63754,7 +63754,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/9d766ec7-967d-40cb-8ee4-3cf55c3b35af/90f91bb5-9134-4c44-bfa6-1ebb531b2769")
 		(sheetname "/Digital IO and Connectors/")
-		(sheetfile "brew_stm8s207_v421_stm8s207_3.kicad_sch")
+		(sheetfile "brew_HW_stm8s207_3.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.727064 -0.91)
@@ -63958,7 +63958,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/99fc4b3c-8fe7-4234-a079-3ca6d7338ba8/263b4b03-b8fc-45ff-a9e0-7813f677a3d4")
 		(sheetname "/STM8S207 Microcontroller/")
-		(sheetfile "brew_stm8s207_v421_stm8s207_1.kicad_sch")
+		(sheetfile "brew_HW_stm8s207_1.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.711252 0.91)
@@ -64162,7 +64162,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/4b3e4e39-caaa-4705-bdb7-10020572d799/5496bc00-d920-4de9-b657-f4fedf67e5e9")
 		(sheetname "/Power Supply +24V, +7 Vdc, +5Vdc, +3V3/")
-		(sheetfile "brew_stm8s207_v421_stm8s207_2.kicad_sch")
+		(sheetfile "brew_HW_stm8s207_2.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.727064 0.91)
@@ -64366,7 +64366,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/99fc4b3c-8fe7-4234-a079-3ca6d7338ba8/374f0bf8-3efa-4e45-a8a4-352ab8c52efd")
 		(sheetname "/STM8S207 Microcontroller/")
-		(sheetfile "brew_stm8s207_v421_stm8s207_1.kicad_sch")
+		(sheetfile "brew_HW_stm8s207_1.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.727064 0.91)
@@ -64570,7 +64570,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/4b3e4e39-caaa-4705-bdb7-10020572d799/078dcec1-6678-4d5b-aeee-739e9d16babf")
 		(sheetname "/Power Supply +24V, +7 Vdc, +5Vdc, +3V3/")
-		(sheetfile "brew_stm8s207_v421_stm8s207_2.kicad_sch")
+		(sheetfile "brew_HW_stm8s207_2.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.711252 -0.91)
@@ -64774,7 +64774,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/99fc4b3c-8fe7-4234-a079-3ca6d7338ba8/de0ca8a7-4dde-4e3a-9fa5-8ddf142a865b")
 		(sheetname "/STM8S207 Microcontroller/")
-		(sheetfile "brew_stm8s207_v421_stm8s207_1.kicad_sch")
+		(sheetfile "brew_HW_stm8s207_1.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.727064 0.91)
@@ -64978,7 +64978,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/9d766ec7-967d-40cb-8ee4-3cf55c3b35af/82e559f5-6121-4770-995e-b5403fe57d6a")
 		(sheetname "/Digital IO and Connectors/")
-		(sheetfile "brew_stm8s207_v421_stm8s207_3.kicad_sch")
+		(sheetfile "brew_HW_stm8s207_3.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.711252 0.91)
@@ -65182,7 +65182,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/9d766ec7-967d-40cb-8ee4-3cf55c3b35af/6290ba69-4826-434e-8611-f602334528b6")
 		(sheetname "/Digital IO and Connectors/")
-		(sheetfile "brew_stm8s207_v421_stm8s207_3.kicad_sch")
+		(sheetfile "brew_HW_stm8s207_3.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.711252 0.91)
@@ -65386,7 +65386,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/4b3e4e39-caaa-4705-bdb7-10020572d799/251c858a-fe3b-49dd-805d-aa1be6ad3e9f")
 		(sheetname "/Power Supply +24V, +7 Vdc, +5Vdc, +3V3/")
-		(sheetfile "brew_stm8s207_v421_stm8s207_2.kicad_sch")
+		(sheetfile "brew_HW_stm8s207_2.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.727064 0.91)
@@ -65590,7 +65590,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/9d766ec7-967d-40cb-8ee4-3cf55c3b35af/58f36b6a-ec92-4a7a-a196-710e2bb97967")
 		(sheetname "/Digital IO and Connectors/")
-		(sheetfile "brew_stm8s207_v421_stm8s207_3.kicad_sch")
+		(sheetfile "brew_HW_stm8s207_3.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.727064 0.91)
@@ -65794,7 +65794,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/9d766ec7-967d-40cb-8ee4-3cf55c3b35af/abf3ca0f-b45f-4f64-9343-1687abf56d65")
 		(sheetname "/Digital IO and Connectors/")
-		(sheetfile "brew_stm8s207_v421_stm8s207_3.kicad_sch")
+		(sheetfile "brew_HW_stm8s207_3.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.727064 0.91)
@@ -65998,7 +65998,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/99fc4b3c-8fe7-4234-a079-3ca6d7338ba8/8f0a37c2-ab67-45f7-b896-cae019b6a768")
 		(sheetname "/STM8S207 Microcontroller/")
-		(sheetfile "brew_stm8s207_v421_stm8s207_1.kicad_sch")
+		(sheetfile "brew_HW_stm8s207_1.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.727064 0.91)
@@ -66202,7 +66202,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/99fc4b3c-8fe7-4234-a079-3ca6d7338ba8/a2f2133c-5be4-437c-8ddc-050e2e3616ed")
 		(sheetname "/STM8S207 Microcontroller/")
-		(sheetfile "brew_stm8s207_v421_stm8s207_1.kicad_sch")
+		(sheetfile "brew_HW_stm8s207_1.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.727064 -0.91)
@@ -66406,7 +66406,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/9d766ec7-967d-40cb-8ee4-3cf55c3b35af/83491158-c53a-428a-b101-d739ebc99e9b")
 		(sheetname "/Digital IO and Connectors/")
-		(sheetfile "brew_stm8s207_v421_stm8s207_3.kicad_sch")
+		(sheetfile "brew_HW_stm8s207_3.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.711252 0.91)
@@ -66610,7 +66610,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/99fc4b3c-8fe7-4234-a079-3ca6d7338ba8/66661a36-5a4f-404b-ad05-2360e0eaf107")
 		(sheetname "/STM8S207 Microcontroller/")
-		(sheetfile "brew_stm8s207_v421_stm8s207_1.kicad_sch")
+		(sheetfile "brew_HW_stm8s207_1.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.727064 -0.91)
@@ -66814,7 +66814,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/99fc4b3c-8fe7-4234-a079-3ca6d7338ba8/a094a04d-850f-423d-b879-d5504509826a")
 		(sheetname "/STM8S207 Microcontroller/")
-		(sheetfile "brew_stm8s207_v421_stm8s207_1.kicad_sch")
+		(sheetfile "brew_HW_stm8s207_1.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.727064 0.91)
@@ -67018,7 +67018,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/99fc4b3c-8fe7-4234-a079-3ca6d7338ba8/fef884b2-f302-4138-b0fa-fd401225b038")
 		(sheetname "/STM8S207 Microcontroller/")
-		(sheetfile "brew_stm8s207_v421_stm8s207_1.kicad_sch")
+		(sheetfile "brew_HW_stm8s207_1.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.711252 -0.91)
@@ -67222,7 +67222,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/99fc4b3c-8fe7-4234-a079-3ca6d7338ba8/471d3064-f6df-4e50-a8c4-43a551b565d9")
 		(sheetname "/STM8S207 Microcontroller/")
-		(sheetfile "brew_stm8s207_v421_stm8s207_1.kicad_sch")
+		(sheetfile "brew_HW_stm8s207_1.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.727064 0.91)
@@ -67426,7 +67426,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/9d766ec7-967d-40cb-8ee4-3cf55c3b35af/0d66e94f-a8fb-46b6-a995-3877d7b1ad13")
 		(sheetname "/Digital IO and Connectors/")
-		(sheetfile "brew_stm8s207_v421_stm8s207_3.kicad_sch")
+		(sheetfile "brew_HW_stm8s207_3.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.727064 0.91)
@@ -67630,7 +67630,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/4b3e4e39-caaa-4705-bdb7-10020572d799/ea753b9d-a715-4dde-883b-312141f60aad")
 		(sheetname "/Power Supply +24V, +7 Vdc, +5Vdc, +3V3/")
-		(sheetfile "brew_stm8s207_v421_stm8s207_2.kicad_sch")
+		(sheetfile "brew_HW_stm8s207_2.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.711252 -0.91)
@@ -67834,7 +67834,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/9d766ec7-967d-40cb-8ee4-3cf55c3b35af/42ff4dcb-0ba6-48d3-b122-f155436e3a9d")
 		(sheetname "/Digital IO and Connectors/")
-		(sheetfile "brew_stm8s207_v421_stm8s207_3.kicad_sch")
+		(sheetfile "brew_HW_stm8s207_3.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.727064 -0.91)
@@ -68038,7 +68038,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/9d766ec7-967d-40cb-8ee4-3cf55c3b35af/1867ce92-370c-42f1-b36f-db428a4301cb")
 		(sheetname "/Digital IO and Connectors/")
-		(sheetfile "brew_stm8s207_v421_stm8s207_3.kicad_sch")
+		(sheetfile "brew_HW_stm8s207_3.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.727064 -0.91)
@@ -68242,7 +68242,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/9d766ec7-967d-40cb-8ee4-3cf55c3b35af/212bf40c-0cae-42c8-bbae-5b032211ac5f")
 		(sheetname "/Digital IO and Connectors/")
-		(sheetfile "brew_stm8s207_v421_stm8s207_3.kicad_sch")
+		(sheetfile "brew_HW_stm8s207_3.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.727064 -0.91)
@@ -68446,7 +68446,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/4b3e4e39-caaa-4705-bdb7-10020572d799/d09277f8-d820-496a-88cb-5888fd93d74f")
 		(sheetname "/Power Supply +24V, +7 Vdc, +5Vdc, +3V3/")
-		(sheetfile "brew_stm8s207_v421_stm8s207_2.kicad_sch")
+		(sheetfile "brew_HW_stm8s207_2.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.711252 -0.91)
@@ -68650,7 +68650,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/99fc4b3c-8fe7-4234-a079-3ca6d7338ba8/99ca699f-5fa9-4b79-912a-bc6003975697")
 		(sheetname "/STM8S207 Microcontroller/")
-		(sheetfile "brew_stm8s207_v421_stm8s207_1.kicad_sch")
+		(sheetfile "brew_HW_stm8s207_1.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.727064 -0.91)
@@ -68854,7 +68854,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/99fc4b3c-8fe7-4234-a079-3ca6d7338ba8/7f3c626e-3904-4480-8cc5-c64b03c6f6c1")
 		(sheetname "/STM8S207 Microcontroller/")
-		(sheetfile "brew_stm8s207_v421_stm8s207_1.kicad_sch")
+		(sheetfile "brew_HW_stm8s207_1.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.727064 -0.91)
@@ -69058,7 +69058,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/9d766ec7-967d-40cb-8ee4-3cf55c3b35af/8bddbf93-a2e2-498a-a0ff-21f315ff897e")
 		(sheetname "/Digital IO and Connectors/")
-		(sheetfile "brew_stm8s207_v421_stm8s207_3.kicad_sch")
+		(sheetfile "brew_HW_stm8s207_3.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.727064 -0.91)
@@ -69262,7 +69262,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/9d766ec7-967d-40cb-8ee4-3cf55c3b35af/fd415994-2e9a-475a-bad2-b295e6ce3c47")
 		(sheetname "/Digital IO and Connectors/")
-		(sheetfile "brew_stm8s207_v421_stm8s207_3.kicad_sch")
+		(sheetfile "brew_HW_stm8s207_3.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.727064 -0.91)
@@ -69466,7 +69466,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/4b3e4e39-caaa-4705-bdb7-10020572d799/50f54f0d-8a17-48e3-996f-e55523c0d610")
 		(sheetname "/Power Supply +24V, +7 Vdc, +5Vdc, +3V3/")
-		(sheetfile "brew_stm8s207_v421_stm8s207_2.kicad_sch")
+		(sheetfile "brew_HW_stm8s207_2.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.727064 0.91)
@@ -69670,7 +69670,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/99fc4b3c-8fe7-4234-a079-3ca6d7338ba8/8549d977-1391-4803-b0bb-726defcf3341")
 		(sheetname "/STM8S207 Microcontroller/")
-		(sheetfile "brew_stm8s207_v421_stm8s207_1.kicad_sch")
+		(sheetfile "brew_HW_stm8s207_1.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.711252 -0.91)
@@ -69874,7 +69874,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/9d766ec7-967d-40cb-8ee4-3cf55c3b35af/3f158ce6-0b83-4cad-a539-0ab7cce3d67f")
 		(sheetname "/Digital IO and Connectors/")
-		(sheetfile "brew_stm8s207_v421_stm8s207_3.kicad_sch")
+		(sheetfile "brew_HW_stm8s207_3.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.727064 0.91)
@@ -70078,7 +70078,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/9d766ec7-967d-40cb-8ee4-3cf55c3b35af/3cd084e0-0b4f-4650-b3bc-54c2628a68fe")
 		(sheetname "/Digital IO and Connectors/")
-		(sheetfile "brew_stm8s207_v421_stm8s207_3.kicad_sch")
+		(sheetfile "brew_HW_stm8s207_3.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.727064 -0.91)
@@ -70282,7 +70282,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/9d766ec7-967d-40cb-8ee4-3cf55c3b35af/a9f97d43-4dfb-43cf-993e-5375985d92da")
 		(sheetname "/Digital IO and Connectors/")
-		(sheetfile "brew_stm8s207_v421_stm8s207_3.kicad_sch")
+		(sheetfile "brew_HW_stm8s207_3.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.727064 0.91)
@@ -70486,7 +70486,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/9d766ec7-967d-40cb-8ee4-3cf55c3b35af/31a2731e-4af3-4d3d-ac45-5d403baacddd")
 		(sheetname "/Digital IO and Connectors/")
-		(sheetfile "brew_stm8s207_v421_stm8s207_3.kicad_sch")
+		(sheetfile "brew_HW_stm8s207_3.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.727064 -0.91)
@@ -70690,7 +70690,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/9d766ec7-967d-40cb-8ee4-3cf55c3b35af/1a6d3b99-29e9-4667-a3d5-8b88c1889f3e")
 		(sheetname "/Digital IO and Connectors/")
-		(sheetfile "brew_stm8s207_v421_stm8s207_3.kicad_sch")
+		(sheetfile "brew_HW_stm8s207_3.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.727064 0.91)
@@ -70894,7 +70894,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/9d766ec7-967d-40cb-8ee4-3cf55c3b35af/78363ec6-00f9-45d3-86a6-c54540cb4bc8")
 		(sheetname "/Digital IO and Connectors/")
-		(sheetfile "brew_stm8s207_v421_stm8s207_3.kicad_sch")
+		(sheetfile "brew_HW_stm8s207_3.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.727064 -0.91)
@@ -71098,7 +71098,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/9d766ec7-967d-40cb-8ee4-3cf55c3b35af/898ae2f6-bbbb-4b03-add1-70055588390c")
 		(sheetname "/Digital IO and Connectors/")
-		(sheetfile "brew_stm8s207_v421_stm8s207_3.kicad_sch")
+		(sheetfile "brew_HW_stm8s207_3.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.711252 0.91)
@@ -71302,7 +71302,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/99fc4b3c-8fe7-4234-a079-3ca6d7338ba8/8ca8b100-c7ad-4316-ae55-660533122713")
 		(sheetname "/STM8S207 Microcontroller/")
-		(sheetfile "brew_stm8s207_v421_stm8s207_1.kicad_sch")
+		(sheetfile "brew_HW_stm8s207_1.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.727064 0.91)
