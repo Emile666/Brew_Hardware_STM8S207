@@ -1,5 +1,8 @@
 # Brew Automation Hardware with a STM8S207
-This PCB is an evolution of what originally was an Arduino with some added hardware. The current PCB features an STM8S207R8, which comes in a 64 pins LQPF package. It has a maximum of 52 GPIO pins, contains 64K Flash, 1536 bytes EEPROM and 6 KB of RAM.
+This PCB is an evolution of what originally was an Arduino with some added hardware. The current PCB features an STM8S207R8, which comes in a 64 pins LQPF package. It has a maximum of 52 GPIO pins, contains 64K Flash, 1536 bytes EEPROM and 6 KB of RAM. Previous PCB versions were made with Eagle, starting with V4.12, KiCad is used.
+
+![PCB Layout](./brew_HW_stm8s207.png)<br>
+*PCB Layout*
 
 # Features
 The current PCB and firmware have the following features:
@@ -14,3 +17,11 @@ The current PCB and firmware have the following features:
   It is also possible to use just one (or two) of the three-phases, depending on the number of heating-elements inside the HLT and/or boil-kettle. The firmware is capable of addressing one, two or three heating-elements per kettle.
 - **Ethernet and USB connection** to PC: USB-connection is used for debugging, main connection between PC-program and the firmware is Ethernet.
 - **Frontpanel LEDs (24 in total)** that show the status of all actuators. They are controlled by a MAX7219 LED Display Driver, located on a separate PCB, the frontpanel PCB.
+
+# Schematics (.pdf)
+[Brew Hardware schematics](./brew_HW_stm8s207_r430.pdf)<br>
+*Brew Hardware Schematics*
+
+# Interactive Bill-of-Materials (BOM)
+[Brew Hardware BOM](http://htmlpreview.github.io/?https://github.com/Emile666/Brew_Hardware_STM8S207/blob/main/bom/ibom.html)<br>
+*Brew Hardware BOM*
