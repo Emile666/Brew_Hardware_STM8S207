@@ -211,7 +211,10 @@
         }
       ],
       "track_widths": [
-        0.0
+        0.0,
+        0.2,
+        0.3,
+        1.5
       ],
       "tuning_pattern_settings": {
         "diff_pair_defaults": {
@@ -254,7 +257,7 @@
       "internal_id": "",
       "mfg": "",
       "mpn": "",
-      "sch_revision": ""
+      "sch_revision": "R4.30"
     },
     "layer_pairs": [],
     "layer_presets": [],
@@ -721,7 +724,7 @@
         "uuid": "581662ba-1388-411d-84bf-369e0c410d0a"
       }
     ],
-    "used_designators": "",
+    "used_designators": "CON30-31,#PWR68-70,#PWR74,#PWR100,TP8-15,C7,C37,C39,R51,U11",
     "variants": []
   },
   "sheets": [

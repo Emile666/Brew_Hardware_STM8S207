@@ -4,6 +4,11 @@
 	(generator_version "10.0")
 	(uuid "581662ba-1388-411d-84bf-369e0c410d0a")
 	(paper "A4")
+	(title_block
+		(title "Brew Hardware STM8S207R8")
+		(date "2026-09-27")
+		(rev "R4.30")
+	)
 	(lib_symbols
 		(symbol "Connector:Conn_01x02_Socket"
 			(pin_names
@@ -520,7 +525,7 @@
 	)
 	(text "Features:\n- 6-8 Temperature-sensors (2 x I2C, 4-6 OW sensors)\n- 4 x Flow-sensor\n- 2 x 230V gasburner enable + 2 x PWM modulating control\n- 2 x 3 phase electric SSR for HLT and BK\n- 2 x SSR for Pumps\n- 8 x Solenoid Ball Valve control\n- Ethernet RJ45 by Wiz550io\n- Frontpanel LED control by MAX7219"
 		(exclude_from_sim no)
-		(at 18.415 99.695 0)
+		(at 15.24 27.94 0)
 		(effects
 			(font
 				(size 1.778 1.778)
@@ -529,9 +534,9 @@
 		)
 		(uuid "4568df4b-d9ba-4c42-90e1-aabd28bb9487")
 	)
-	(text "2.0: First version. PCB made by IteadStudio.\n2.1: Bug-fix PWM generation. R48 and R49 added.\n3.0: Major update: triacs, pcf8574, max1238, con3 (valves) removed,\n     added: flow sensor interface + valves interface.\n3.01: IteadStudio PCB-2 made\n3.02: JP1 for Int./Ext. 24AC switching added\n      MCP23008 with 2 ULN2803 parallel for 1A switching\n3.03: 2 x DS2482 / One-Wire Interface added\n3.04: PTC (Resettable Fuses) added to Valve Interface\n3.05 WIZ550io Interface added\n3.10 Pressure Sensor Interface / -10V removed\n     Sensor Connectors now DIN6-connectors.\n     FLOW2 from D2 to A2, FLOW3 (A1) added.\n     +10V now with DC-DC converter.\n3.20 All Resistors now 1206 SMD. Arduino Nano instead of UNO.\n     LM35 from A0 to A6, FLOW4 added to ADC0.\n     Two One-Wire temp. sensors added (IC11, IC12, CON16, CON17).\n3.21 Temp. sensors now with RJ12 connectors.\n3.30 IC MCP23017 added + Boil PWM interface added.\n     Heater_LED now via triac pcb. SPI_SS from D10 to D7 (PD7).\n3.40 LD1117 footprint added + TD62783 instead of ULN2803.\n     PUMP2_230V added.\n3.50 Solenoid intf now with relays, SMD footprints when possible.\n3.60 VCC-extern now separate from VCC.\n4.00 Arduino replaced by stm8s207R8\n4.01 BK_SSR, HLT_SSR and FLOW4 to other pins\n4.10 Level-shifter MISO + 2x3 ELE SSR  added\n4.11 CH340G + USB added\n4.12 Bug-fix USB connector + DC PWR changed to 24V and 7V + 3V3 separate from 5V\n4.20 KiCad Conversion\n4.21 C50 value 100n->820n\n     U6 address should be 0x36\n     CON7 pin 1 had no Vcc connected\n     TX2/RX2 should be RX3/TX3, also on CON19\n     R44/R51 removed, R25: 10K->18K, C21 added.\n     LM393 / inverted PWM -> normal PWM. "
+	(text "2.0: First version. PCB made by IteadStudio.\n2.1: Bug-fix PWM generation. R48 and R49 added.\n3.0: Major update: triacs, pcf8574, max1238, con3 (valves) removed,\n     added: flow sensor interface + valves interface.\n3.01: IteadStudio PCB-2 made\n3.02: JP1 for Int./Ext. 24AC switching added\n      MCP23008 with 2 ULN2803 parallel for 1A switching\n3.03: 2 x DS2482 / One-Wire Interface added\n3.04: PTC (Resettable Fuses) added to Valve Interface\n3.05 WIZ550io Interface added\n3.10 Pressure Sensor Interface / -10V removed\n     Sensor Connectors now DIN6-connectors.\n     FLOW2 from D2 to A2, FLOW3 (A1) added.\n     +10V now with DC-DC converter.\n3.20 All Resistors now 1206 SMD. Arduino Nano instead of UNO.\n     LM35 from A0 to A6, FLOW4 added to ADC0.\n     Two One-Wire temp. sensors added (IC11, IC12, CON16, CON17).\n3.21 Temp. sensors now with RJ12 connectors.\n3.30 IC MCP23017 added + Boil PWM interface added.\n     Heater_LED now via triac pcb. SPI_SS from D10 to D7 (PD7).\n3.40 LD1117 footprint added + TD62783 instead of ULN2803.\n     PUMP2_230V added.\n3.50 Solenoid intf now with relays, SMD footprints when possible.\n3.60 VCC-extern now separate from VCC.\n4.00 Arduino replaced by stm8s207R8\n4.01 BK_SSR, HLT_SSR and FLOW4 to other pins\n4.10 Level-shifter MISO + 2x3 ELE SSR  added\n4.11 CH340G + USB added\n4.12 Bug-fix USB connector + DC PWR changed to 24V and 7V + 3V3 separate from 5V\n4.20 KiCad 9 Conversion\n4.21 C50 value 100n->820n\n     U6 address should be 0x36\n     CON7 pin 1 had no Vcc connected\n     TX2/RX2 should be RX3/TX3, also on CON19\n     R44/R51 removed, R25: 10K->18K, C21 added.\n     LM393 / inverted PWM -> normal PWM. \n4.30 KiCad 10 Conversion\n     Wiz550IO orientation changed\n     W5500_Lite added\n"
 		(exclude_from_sim no)
-		(at 15.24 195.58 0)
+		(at 15.24 194.31 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1014,7 +1019,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1c0b45fd-edb9-41d0-86be-dc99e8518cc0")
-		(property "Reference" "CON1"
+		(property "Reference" "J1"
 			(at 122.555 62.23 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1076,7 +1081,7 @@
 		(instances
 			(project "brew_HW_stm8s207"
 				(path "/581662ba-1388-411d-84bf-369e0c410d0a"
-					(reference "CON1")
+					(reference "J1")
 					(unit 1)
 				)
 			)
